@@ -1,7 +1,7 @@
 <?php
 /*
- * Challenge Name : Data Types
- * Challenge Link : https://www.hackerrank.com/challenges/30-data-types
+ * Problem Name : Data Types
+ * Problem Link : https://www.hackerrank.com/challenges/30-data-types
  * */
 
 $handle = fopen ("php://stdin","r");
