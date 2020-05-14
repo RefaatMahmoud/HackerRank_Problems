@@ -1,7 +1,7 @@
 <?php
 /*
- * Challenge Name : Operators
- * Challenge Link : https://www.hackerrank.com/challenges/30-operators/problem
+ * Problem Name : Operators
+ * Problem Link : https://www.hackerrank.com/challenges/30-operators/problem
  * */
 
 // Complete the solve function below.
