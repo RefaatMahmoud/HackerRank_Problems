@@ -1,5 +1,6 @@
 <?php
 /*
+ * Author : Refaat Aish
  * Problem Name : Data Types
  * Problem Link : https://www.hackerrank.com/challenges/30-data-types
  * */

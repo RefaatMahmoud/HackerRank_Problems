@@ -1,5 +1,6 @@
 <?php
 /*
+ * Author : Refaat Aish
  * Problem Name : Operators
  * Problem Link : https://www.hackerrank.com/challenges/30-operators/problem
  * */
