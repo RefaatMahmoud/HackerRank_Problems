@@ -18,14 +18,13 @@ class Difference
 
     public function ComputeDifference()
     {
-        $max = 0;
+        $this->maximumDifference = 0;
         for ($i = 0; $i < count($this->elements); $i++) {
             for ($j = 0; $j < count($this->elements); $j++) {
-                $temp = abs($this->elements[$i] - $this->elements[$j]);
-                $max = max($max, $temp);
+                $temp_diff = abs($this->elements[$i] - $this->elements[$j]);
+                $this->maximumDifference = max($this->maximumDifference, $temp_diff);
             }
         }
-        $this->maximumDifference = $max;
     }
 }
 
